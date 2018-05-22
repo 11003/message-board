@@ -1,0 +1,12 @@
+body{ background:#09F; margin:0px; padding:0px; font-size:12px; font-family:'微软雅黑'}
+form{ margin:0px; padding:0px;}
+.big{ width:400px; height:300px; position:absolute; left:50%; top:50%; margin-left:-200px; margin-top:-150px; background:#06F; border:1px solid #FFF; border-radius:10px; padding:0px;}
+.big h1{ width:100%; text-align:center; color:#FFF; list-style:none; margin:40px 0px 0px 0px; padding:0px;}
+.big ul{width:100%; text-align:center; color:#FFF; list-style:none; margin:30px 0px 0px 0px; padding:0px;}
+.big ul li{width:100%; text-align:center; color:#FFF; list-style:none; margin:10px 0px; padding:0px;}
+input[type=text],[type=password]{ width:200px; height:30px; border:1px solid #096; border-radius:5px; background:#FFF;transition:1s}
+input[type=text]:hover,[type=password]:hover{ background:#096; transition:1s}
+
+input[type=submit],[type=reset]{ width:100px; height:30px; border:1px solid #096; border-radius:5px; background:#096; margin:5px;}
+input[type=submit]:hover,[type=reset]:hover{ background:#033; transition:1s}
+
